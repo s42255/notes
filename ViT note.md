@@ -268,3 +268,7 @@ The Vision Transformer (ViT) represents a significant shift in applying Transfor
 
 ---
 
+https://www.youtube.com/@umarjamilai/featured
+https://www.youtube.com/@mildlyoverfitted/playlists
+https://github.com/pinecone-io/examples/blob/master/learn/search/image/image-retrieval-ebook/vision-transformers/vit.ipynb
+https://colab.research.google.com/drive/1P9TPRWsDdqJC6IvOxjG2_3QlgCt59P0w?usp=sharing#scrollTo=V7LkzG6fOt_k
